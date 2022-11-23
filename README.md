@@ -16,7 +16,6 @@ The main focal points of the data.
 * As the bubble chart displays below there is a negative linear correlation between the average fare and the total number of rides per city further reinforcing that the more drivers per city the less on average fares the drivers profit. 
 
 * We also take a look at the total fares by city type which all three types of cities have a relatively constant amount of Fares in the months of January through April. There is a slight uptick in fares in the middle to end of February for all cities due to some event or holiday during that time period. Taking a further look into the seasonality and high ride demand periods for each type of city would benefit PyBers optimal driver allocation schedule. 
-![sum_fares_city](https://user-images.githubusercontent.com/95573310/203664062-be9eb122-6941-4c67-9f52-a2a7e5751e65.png)
     
 ## Summary
 * The three recommendations that can be made to assist Pyber in its growth of market share as well as future profits and employee retention can be summarized as such:
