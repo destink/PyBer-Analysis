@@ -14,8 +14,10 @@ The main focal points of the data.
     
     As the data show there is a significantly higher number of drivers per ride in the Urban area whereas Suburban and Rural are both closer to 70%.
 * As the bubble chart displays below there is a negative linear correlation between the average fare and the total number of rides per city further reinforcing that the more drivers per city the less on average drivers profit in fares. 
+![PyBerBubbleChart](https://user-images.githubusercontent.com/95573310/203676650-0579eb4c-2487-4114-9135-d83372139b12.png)
 
 * We also take a look at the total fares by city type which all three types of cities have a relatively constant amount of Fares in the months of January through April. There is a slight uptick in fares in the middle to end of February for all cities due to some event or holiday during that time period. Taking a further look into the seasonality and high ride demand periods for each type of city would benefit PyBers optimal driver allocation schedule. 
+![sum_fares_city](https://user-images.githubusercontent.com/95573310/203676671-b31f934a-0b81-4a7c-9800-77e663ca6588.png)
 
     
 ## Summary
